@@ -1,3 +1,6 @@
+## Added this cloned repo to my repositories to keep tracked of changes when committed for future studies
+
+
 # Odyssey Lift-off I: Basics
 
 Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
